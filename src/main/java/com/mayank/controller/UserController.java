@@ -36,6 +36,7 @@ public class UserController {
 		list.add(new User(new Integer(134),"Bihari","patna","Bihar"));
 		list.add(new User(new Integer(156),"Mohan","noida","UP"));
 		list.add(new User(new Integer(176),"ramesh","noida","UP"));
+		list.add(new User(new Integer(177),"rakesh","jalaun","UP"));
 
 	}
 
