@@ -8,6 +8,7 @@ class UserServicesApplicationTests {
 
 	@Test
 	void contextLoads() {
-	}
+		System.out.println("*********************mayank Test data*****************");
+		}
 
 }
