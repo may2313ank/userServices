@@ -40,10 +40,10 @@ public class UserController {
 
 	}
 
-//	@GetMapping("/userList")
-//	private List<User> getuser() {
+	@GetMapping("/userList")
+	private List<User> getuser() {
 //		System.out.println(restTemplate);
-//		return list;
+		return list;
 //	}
 //	@RequestMapping("/productList/{id}")
 //	private Product getPersonList(@PathVariable Integer id) {
