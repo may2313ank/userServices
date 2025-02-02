@@ -44,7 +44,7 @@ public class UserController {
 	private List<User> getuser() {
 //		System.out.println(restTemplate);
 		return list;
-//	}
+	}
 //	@RequestMapping("/productList/{id}")
 //	private Product getPersonList(@PathVariable Integer id) {
 //		Product product =  restTemplate.getForObject(uri+"products/productListById/"+id,Product.class);
